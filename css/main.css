@@ -1,0 +1,151 @@
+
+
+h1{
+	color: grey;
+}
+
+h3{
+	text-align: center;
+}
+
+
+p{
+	color: grey;
+	font-size: 16px;
+	font-width: 10px;
+}
+
+
+body{
+	background-color: 222;	
+
+	
+}
+
+@media screen and (max-width: 667px) { 
+    /* iPhone 6 Portrait */ 
+
+.hp img {
+	width: 100px;
+}
+
+}
+
+
+
+.img-circle{
+	display: inline-block;
+	border: 12px solid rgb(211,211,211);
+
+}
+
+body, html {
+    height: 100%;
+}
+
+.hp { 
+    width: 930px;
+}
+
+iframe{
+	height: 300px;
+	width: 600px;
+	margin-left: 130px;
+}
+
+
+
+.btn-info{
+	background-color: grey;
+	border-color: black;
+}
+
+.modal-footer{
+	border-top: none;
+}
+
+#pantry{
+	width: 360px;
+}
+
+#health{
+	width: 338px;
+	height: 340px;
+}
+
+#ang{
+	width: 330px;
+	height: 290px;
+
+}
+#cleaver{
+	height: 285px;
+}
+button{
+	margin-top: 20px;
+}
+
+#ang,#fred,#stoke{
+	margin-top: 24px;
+}
+
+#angbutton{
+	margin-top:16px;
+}
+
+
+
+.container{
+	max-width: 960px;
+
+}
+
+#backlash{
+	    margin-top: -788px;
+    	margin-left: 360px;
+    	width: 190px;
+}
+
+#angwanted{
+	margin-left: 192px;
+}
+
+#panther21{
+	    width: 546px;
+	    margin-left: 175px;
+    	margin-top: 110px
+
+}
+
+iframe{
+	height: 300px;
+    width: 546px;
+    margin-left: -8px;
+    margin-top: 20px;
+}
+
+#p21{
+	    margin-left: 360px;
+    margin-top: -386px;
+	width: 190px;
+}
+
+#raid{
+	width: 500px;
+	margin-left: 200px;
+}
+
+#fredbutton{
+	    margin-left: -346px;
+	    width: 190px;
+}
+
+#nytimes{
+	    
+	        width: 941px;
+	        height: 389px;
+}
+
+#impact1, #impact2{
+	width: 931px;
+}
